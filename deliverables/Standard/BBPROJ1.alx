@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="BBPROJ1">
+		<name >
+			
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			BlackBerry Developer
+		</vendor>
+		<copyright >
+			Copyright (c) 2013 BlackBerry Developer
+		</copyright>
+		<fileset Java="1.55" _blackberryVersion="[7.1.0)">
+			<directory >
+				7.1.0
+			</directory>
+			<files >
+				BBPROJ1.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
